@@ -18,7 +18,7 @@ databases model were forbidden.
 
 ### Prerequisites
 
-I highly recommand to use homebrew if for the installation hereafter if you ar on OSX.
+I highly recommand to use homebrew for the installation hereafter if you ar on OSX.
 You need to have installed [Node.js](https://nodejs.org/en/) on the latest stable version, [MySQL](https://www.mysql.com/fr/) and npm.
 
 ### Modify the config file
@@ -30,7 +30,7 @@ mysql -u <your user> -p
 ```
 
 ```sql
-CREATE DATABASE tinder42_db
+CREATE DATABASE tinder42_db;
 ```
 
 * Further, import the new_tinder42_db.sql data into your mysql db
@@ -39,8 +39,8 @@ CREATE DATABASE tinder42_db
 mysql -u <your user> -p tinder42_db < new_tinder42_db.sql
 ```
 
-I leave you a sweet cheatsheet for Mysql : [Cheatsheet](https://devhints.io/mysql)
-Make good use of it 🤙
+I leave you a sweet cheatsheet for Mysql : [Cheatsheet](https://devhints.io/mysql),
+make good use of it 🤙
 
 ### Launch the server
 
