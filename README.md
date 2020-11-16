@@ -3,8 +3,7 @@
 ⚠️ DISCLAIMER: this project has been coded during a school rush of a month and a half, hence the code may be dirty and non optimised, some bugs may appear too. ⚠️
 
 Building an Tinder like web app is the third project of the Web branch of Ecole 42 cursus.
-I had the right to use the language I wanted but the use of frameworks (Node.js is a runtime, Express a micro framework and Vue.js/Vuex considered as a library), and NoSql
-databases model were forbidden. 
+I had the right to use the language I wanted but the use of frameworks (Node.js is a runtime, Express a micro framework and Vue.js/Vuex considered as a library), and NoSql were forbidden. 
 
 ### Built with
 * Node.js
